@@ -22,21 +22,6 @@ A fun browser-based "Whack-a-Hole" game built using **HTML**, **CSS**, and **Jav
 - jQuery
 
 ---
-
-## 📁 Project Structure
-📂 Drum-Kit-Whack-a-Hole
-├── index.html
-├──images
-├── styles.css
-├── app.js
-├── /Sounds
-│ ├── yay-6120.mp3 // Correct click sound
-│ ├── wrong.mp3 // Wrong click sound
-│ └── mole.mp3 // (Optional) Hole active sound
-└── README.md
-
----
-
 ## 📌 Features
 
 - Randomized hole highlighting
